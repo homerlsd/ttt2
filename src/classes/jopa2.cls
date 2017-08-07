@@ -1,0 +1,2 @@
+public class jopa2 {
+}
